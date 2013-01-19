@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.estenh.webfactional.com
-title: untypical
+url: http://untypic.al
+title: untypic.al
 subtitle: adventures in internets
 author: Esten Hurtle
 simple_search: http://google.com/search
@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:title/
+permalink: /blog/:year/:i_month/:i_day/:title/
 source: source
 destination: public
 plugins: plugins
